@@ -120,6 +120,7 @@ Team will be ranked primarily by AUC and then by FROC if there is a tie.
 | ------- | -----| --------| ---| ----| 
 | 1       |Mar 18, 2020 | baseline_faster-rcnn (single model) *individual participant* | 0.923 |0.800|
 | 2       |Feb 21, 2020 | [JF Healthcare baseline](https://github.com/jfhealthcare/object-CXR#baseline) (single model)  *JF Healthcare*| 0.921 |0.803|
+| 3       |May 27, 2020 | [frankNet](https://github.com/frank-qcd-qk/object-cxr-2020) (single model)  *Case Western Reserve University Autonomous Vehicles Lab*| 0.918 |0.696|
 
 ## Prize
 The team wins the first place will be awarded an **NVIDIA TITAN RTX™**
